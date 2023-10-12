@@ -22,7 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nandana-03&show_icons=true&locale=en&layout=compact" alt="nandana-03" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandana-03&show_icons=true&locale=en" alt="nandana-03" /></p>
-
+)]
 <h1 align="center">Hi 👋, I'm Nandana S Krishnan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/248884004-af212da4-8588-4d7c-8400-16e56f2746a0.gif">
